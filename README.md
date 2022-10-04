@@ -1,4 +1,4 @@
-### Hi there 👋 I am a software engineering student at Ain Shams University, eager to enhance my experience in the software engineering field.
+### Hi there 👋 I am a Well qualified full-stack developer familiar with a wide range of utilities and programming languages. Knowledge of backend and frontend development requirements. Manage every part of the process with ease. Collaborative team player with excellent technical skills and 2+ years of relevant experience in developing full-stack web apps using React.js, Node.js, MySQL.
 
 
 
