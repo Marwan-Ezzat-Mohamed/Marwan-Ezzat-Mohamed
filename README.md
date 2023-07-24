@@ -1,4 +1,4 @@
-### Hi there 👋 I am a Well qualified front-end developer familiar with a wide range of utilities and programming languages. Knowledge of backend and frontend development requirements. Manage every part of the process with ease. Collaborative team player with excellent technical skills and 2+ years of relevant experience in developing full-stack web apps using React.js, Node.js, MySQL.
+### Hi there 👋 I am a Well qualified front-end developer familiar with a wide range of utilities and programming languages. Knowledge of backend and frontend development requirements. Manage every part of the process with ease. Collaborative team player with excellent technical skills and 3+ years of relevant experience in developing full-stack web apps using React.js, Node.js, MySQL.
 
 
 
